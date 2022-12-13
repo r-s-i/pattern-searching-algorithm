@@ -42,6 +42,11 @@ main > * {
   width: 50vw;
 } 
 
+textarea, input, button {
+  background: #4b4b4b;
+  color: white;
+}
+
 textarea {
   height: 20vh;
 }

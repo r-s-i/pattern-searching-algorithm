@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  background-color: #282c34;
+  background-color: #1A1A1A;
   display: block;
   min-height: 100vh;
   color: white;
@@ -41,6 +41,11 @@ main > * {
   margin-right: 5rem;
   width: 50vw;
 } 
+
+textarea, input, button {
+  background: #4b4b4b;
+  color: white;
+}
 
 textarea {
   height: 20vh;
